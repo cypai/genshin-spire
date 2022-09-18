@@ -1,0 +1,5 @@
+package genshinspire.egt
+
+enum class Reaction {
+    VAPORIZE, MELT, SUPERCONDUCT, FREEZE, ELECTROCHARGED, OVERLOAD, SWIRL, CRYSTALLIZE
+}
